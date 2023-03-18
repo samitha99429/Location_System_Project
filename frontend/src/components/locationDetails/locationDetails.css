@@ -1,0 +1,93 @@
+.location-details-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+  }
+  
+  .location-details-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .location-details-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 30px;
+  }
+  
+  .location-details-info h3 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .location-details-info p {
+    margin-bottom: 10px;
+  }
+  
+  .device-list-container {
+    width: 100%;
+    margin-top: 50px;
+  }
+  
+  .device-list-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 30px;
+  }
+  
+  .device-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #F8F9FA;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .device-card img {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+  }
+  
+  .device-card-info {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .device-card-info h4 {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .device-card-info p {
+    margin-bottom: 10px;
+  }
+  
+  .add-device-btn {
+    background-color: #007BFF;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 16px;
+    margin-top: 30px;
+    cursor: pointer;
+  }
+  
+  .remove-device-btn {
+    background-color: #DC3545;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,29 @@
+
+.container {
+    margin: 0 auto;
+  }
+  
+ 
+  form {
+    padding: 1rem;
+  }
+  
+
+  .invalid-feedback {
+    color: #dc3545;
+    font-size: 0.9rem;
+    display: none;
+  }
+  
+
+  .form-control:invalid ~ .invalid-feedback {
+    display: block;
+  }
+  
+
+  button[type="submit"] {
+    margin-top: 1rem;
+  }
+  .alert-txt{
+    color: #dc3545;
+  }
