@@ -6,3 +6,8 @@ to run the Frontend ,
 **"npm start"**
 to run the Backend ,
 **"npm start "**
+
+***important***
+you have to add **.env** file before run the project.
+
+## Thank You!
